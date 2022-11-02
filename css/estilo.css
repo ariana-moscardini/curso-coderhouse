@@ -1,4 +1,21 @@
-/*mobile first*/
+body{
+    background-color:rgba(70,169,163, 0.1);
+}
+.navbar{
+    background-color:rgb(93,208, 208,0.22);
+}
+.nav-vd{
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+/* mobile first
 #body-grid{
     background-color:rgba(35, 141, 134, 0.171);
 }
@@ -6,15 +23,13 @@
     display: grid;
     grid-template-columns: 1fr;
     /* grid-template-rows: auto auto auto; */
-}
-.navbar{
+/* .navbar{
     font-size: 17px;
     display: grid;
     grid-template-columns: 1fr;
     background-color:rgb(93,208, 208,0.22);
     /* grid-template-rows: auto auto; */
-}
-.logo{
+/* .logo{
     justify-self: center;
 }
 .ul-header{
@@ -40,6 +55,9 @@
 .container-capo{
     display: none;
 }
+.p2{
+    display: none;
+} */ 
 /* tablets
 @media (min-wid:768px){
     .navbar{
