@@ -1,15 +1,29 @@
+/* body */
 body{
     background-color:rgba(70,169,163, 0.1);
 }
+/* navbar */
 .navbar{
     background-color:rgb(93,208, 208,0.22);
 }
 .nav-vd{
     font-size: 22px;
 }
-
-
-
+/* main background */
+.container-main{
+    background-image:url(../img/trompa\ auto.jpg);
+    color:black;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: 100% 100%;
+}
+.capo{
+    display: none;
+}
+/* main */
+#main-index{
+    padding-top: 30px;
+}
 
 
 
