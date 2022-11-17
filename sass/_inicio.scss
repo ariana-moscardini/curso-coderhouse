@@ -1,0 +1,47 @@
+@use 'variables';
+
+
+// body{
+//     color: map-get($color , 'fondo');
+//     header{
+//         nav{
+//             color: $color-nav;
+//             font-size: 22px;
+//         }
+//     }
+// }
+// main
+// main{
+//     margin-top: 0px;
+//     padding-top: 0px;
+//     div {
+//         background-image:url(../img/trompa\ auto.jpg);
+//         color:black;
+//         background-repeat: no-repeat;
+//         background-attachment:scroll;
+//         background-size: 100% 100%;
+//         opacity: 0.5;
+//     }
+// }
+
+.main-index{
+
+
+
+
+    // BOTON WPP
+    .container-boton{
+        position:fixed;
+        width:60px;
+        height:60px;
+        bottom: 30px;
+        right:20px;
+        background-color:#25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+        .img-wpp{
+            width: 60px;
+        }
+    }
+}
